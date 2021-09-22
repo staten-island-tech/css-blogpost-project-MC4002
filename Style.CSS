@@ -3,6 +3,12 @@ body {
   color: darkslategrey;
   font-size: 25px;
 }
-h2 {
-  color: black;
+.background{
+    background-image: url(img/Peony.jpg);
+    background-position: center;
+    color:whitesmoke;
+}
+}
+.Main-Header {
+  color: darkslateblue;
 }
