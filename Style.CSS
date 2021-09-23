@@ -3,12 +3,25 @@ body {
   color: darkslategrey;
   font-size: 25px;
 }
-.background{
-    background-image: url(img/Peony.jpg);
-    background-position: center;
-    color:whitesmoke;
-}
-}
 .Main-Header {
   color: darkslateblue;
+}
+.First-Post {
+  background-color: #c7d2fe;
+  border: 20px;
+}
+.First-PIC {
+}
+.Second-Post {
+  background-color: #c7d2fe;
+  border: 20px;
+}
+.Second-PIC {
+  height: 200px;
+}
+.Third-Post {
+  background-color: #c7d2fe;
+  border: 20px;
+}
+.Third-PIC {
 }
