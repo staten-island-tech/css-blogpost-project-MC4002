@@ -1,27 +1,18 @@
 body {
   background-color: aliceblue;
   color: darkslategrey;
-  font-size: 25px;
+  font-family: "Ephesis", cursive;
+  text-align: center;
+  margin-right: 550px;
+  margin-left: 550px;
 }
 .Main-Header {
   color: darkslateblue;
 }
-.First-Post {
+.Post {
   background-color: #c7d2fe;
   border: 20px;
 }
-.First-PIC {
-}
-.Second-Post {
-  background-color: #c7d2fe;
-  border: 20px;
-}
-.Second-PIC {
+.PIC {
   height: 200px;
-}
-.Third-Post {
-  background-color: #c7d2fe;
-  border: 20px;
-}
-.Third-PIC {
 }
