@@ -1,18 +1,21 @@
 body {
   background-color: aliceblue;
   color: darkslategrey;
-  font-family: "Ephesis", cursive;
   text-align: center;
   margin-right: 550px;
   margin-left: 550px;
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Economica&display=swap" rel="stylesheet">
 }
 .Main-Header {
   color: darkslateblue;
 }
 .Post {
-  background-color: #c7d2fe;
-  border: 20px;
+  background-color: lavender;
+  border: 25px;
 }
 .PIC {
   height: 200px;
+  padding: 5px;
 }
