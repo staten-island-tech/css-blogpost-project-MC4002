@@ -2,20 +2,23 @@ body {
   background-color: aliceblue;
   color: darkslategrey;
   text-align: center;
-  margin-right: 550px;
-  margin-left: 550px;
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Economica&display=swap" rel="stylesheet">
+  margin-right: 540px;
+  margin-left: 540px;
+  font-family: "Gemunu Libre", sans-serif;
 }
 .Main-Header {
   color: darkslateblue;
+  font-size: 70px;
 }
 .Post {
   background-color: lavender;
-  border: 25px;
+  border: 10px solid rgba(221, 221, 248, 0.5);
+  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 15px;
 }
 .PIC {
   height: 200px;
-  padding: 5px;
+  position: relative;
+  bottom: 5px;
 }
