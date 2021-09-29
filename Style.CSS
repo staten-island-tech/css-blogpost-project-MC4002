@@ -1,6 +1,6 @@
 body {
   background-color: aliceblue;
-  color: darkslategrey;
+  color: rgb(22, 37, 37);
   text-align: center;
   margin-right: 540px;
   margin-left: 540px;
@@ -16,6 +16,10 @@ body {
   padding: 5px;
   margin-top: 10px;
   margin-bottom: 15px;
+}
+.Post-Title {
+  color: darkslategray;
+  font-size: 30px;
 }
 .PIC {
   height: 200px;
